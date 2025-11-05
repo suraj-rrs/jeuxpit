@@ -10,7 +10,10 @@ rm ep1
 echo "Quelle couleur de sabre laser choisis-tu"
 
 # Crée les fichiers
-touch rouge.txt bleu.txt vert.txt
+
+echo "T'as eu 0/20 tu deviens un seigneur sith">rouge.txt
+echo "Classique 10/10,lance le fichier epreuve1.sh">bleu.txt
+echo "Tu fais le padawan différent hein,lance le fichier epreuve1.sh ">vert.txt
 
 # Vérifie si tout s’est bien passé
 if [[ -f rouge.txt && -f bleu.txt && -f vert.txt ]]; then

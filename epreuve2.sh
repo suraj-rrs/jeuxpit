@@ -1,6 +1,6 @@
 echo "Voici le premier combat que tu vas livrer. Tu dois vaincre le clone le plus fort"
 
-echo "(ici les clones sont des fichiers, le vaincre signifie le supprimer)"
+echo "(ici les clones sont des fichiers, le vaincre signifie le supprimer, le plus fort désigne le plus lourd)"
 
 mkdir clones
 
