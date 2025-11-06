@@ -1,4 +1,5 @@
-Indice: il faudra chercher un mot qui commence par sa
+
+Indice: il faudra chercher un mot qui commence par sag
 
 Il y a fort longtemps vivaient en Chine deux frères. 
 Wang, l'aîné, était le plus fort et brimait sans cesse son cadet. 
@@ -14,6 +15,8 @@ Il rentrait chez lui les mains vides, la tête basse, le cœur lourd quand souda
 « Ça pourra toujours servir ! » pensa-t-il en ramassant la meule, et il la rapporta à la maison.
 Dès qu'elle l'aperçut, sa femme lui demanda : « As-tu fait bonne pêche ? Rapportes-tu beaucoup de poissons ?
 — Non, femme ! Il n'y a pas de poisson. Je t'ai apporté une meule.
+sagacité
+sage-femme
 — Wang-cadet, tu sais bien que nous n'avons rien à moudre : il ne reste pas un seul grain à la maison. »
 Wang-cadet posa la meule par terre et, de dépit, lui donna un coup de pied. La meule se mit à tourner, à tourner et à moudre. 
 Et il en sortait du sel, des quantités de sel. Elle tournait de plus en plus vite et il en sortait de plus en plus de sel.
@@ -34,4 +37,5 @@ Wang-l'aîné prit peur. Il ne savait pas comment arrêter la meule.
 Il eut alors l'idée de la faire rouler hors de la maison, qui était sur une colline. La meule dévala la pente, roula jusque dans la mer et disparut dans les flots.
 Depuis ce temps-là, la meule continue à tourner au fond de la mer et à moudre du sel. Personne n'est allé la retourner.
 Et c'est pour cette raison que l'eau de la mer est salée.
-Sagesse
+sagesse
+sager
