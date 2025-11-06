@@ -2,7 +2,6 @@ echo "Voici le premier combat que tu vas livrer. Vas sur la planète Endor et ba
 
 echo "(ici la planète Endor est un repertoire, les clones sont des fichiers, le vaincre signifie le supprimer, le plus fort désigne le plus lourd)"
 
-rm -r endor
 mkdir endor
 
 cp clone1.txt endor
