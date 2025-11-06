@@ -5,10 +5,10 @@ echo "(ici la planète Endor est un repertoire, les clones sont des fichiers, le
 rm -r endor
 mkdir endor
 
-cp clone1.txt clones
-cp clone2.txt clones
-cp clone3.txt clones
-cp clone4.txt clones
-cp clone5.txt clones
-cp clone6.txt clones
+cp clone1.txt endor
+cp clone2.txt endor
+cp clone3.txt endor
+cp clone4.txt endor
+cp clone5.txt endor
+cp clone6.txt endor
 

@@ -1,10 +1,17 @@
 #!/bin/bash
 # Script : start_jedi.sh
 # Objectif : créer trois fichiers texte (rouge, bleu, vert)
+echo "Bienvenue jeune padawan, es-tu prêt à combattre le coté obscure de la force aux cotés de l'alliance jedi?"
+
+echo "La force est cependant capricieuse, pour la dompter il te faudra"
+echo "Un système GNU/Linux (ou équivalent) avec Bash."
+echo "Connaitre les commandes standards"
+
+echo "A présent si tu souhaites débuter ton apprentissage, lance le script start_jedi.sh"
 rm rouge.txt 
 rm bleu.txt
 rm vert.txt
-rm ep1
+rm tatooine
 
 # Affiche un message
 echo "Quelle couleur de sabre laser choisis-tu"

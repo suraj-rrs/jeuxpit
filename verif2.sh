@@ -1,8 +1,8 @@
 
-FICHIER="/home/user/jeuxpit/clones/clones6.txt"
+FICHIER="/home/user/jeuxpit/endor/clone6.txt"
 
 if [ ! -e "$FICHIER" ]; then
-    echo "Le fichier a été supprimé avec succès."
+    echo "Bien joué tu as vaincu le clone le plus puissant, tu mérites d'accéder à l'épreuve final.. epreuvef.sh "
   else
-    echo "La suppression du fichier a échoué."
+    echo "Tu as échoué échoué échoué."
   fi
