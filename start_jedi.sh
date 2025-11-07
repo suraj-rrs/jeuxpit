@@ -11,7 +11,7 @@ echo -e "Un système GNU/Linux (ou équivalent) avec Bash.\n"
 
 echo -e "Connaitre les commandes standards ou les apprendre ;)\n"
 
-echo -e "A présent si tu souhaites débuter ton apprentissage, lance le script start_jedi.sh\n"
+echo -e "A présent si tu souhaites débuter ton apprentissage prépare toi!"
 rm rouge.txt 
 rm bleu.txt
 rm vert.txt
